@@ -711,7 +711,7 @@ html {
     margin-block-start: 10px;
   }
   .profile-info p {
-    font-size: smallF;
+    font-size: small;
     margin-top: -20px;
   }
 }
